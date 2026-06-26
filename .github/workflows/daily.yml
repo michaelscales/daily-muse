@@ -1,4 +1,4 @@
-name: Daily Muse
+name: Daily Muse + French
 on:
   schedule:
     - cron: '7 11 * * *'
