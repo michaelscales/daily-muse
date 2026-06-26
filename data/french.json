@@ -4,25 +4,25 @@
       "fr": "J'ai fait les courses ce matin.",
       "en": "I did the shopping this morning.",
       "drill": "I ___ the shopping this morning. (faire, past)",
-      "focus": "passe compose: faire becomes fait, never the infinitive"
+      "focus": "passé composé: faire becomes fait, never the infinitive"
     },
     {
-      "fr": "J'ai visite mon voisin hier.",
+      "fr": "J'ai visité mon voisin hier.",
       "en": "I visited my neighbor yesterday.",
       "drill": "I ___ my neighbor yesterday. (visiter, past)",
-      "focus": "passe compose: -er verbs drop -er and add -e (visite)"
+      "focus": "passé composé: -er verbs drop -er and add -é (visité)"
     },
     {
-      "fr": "Je l'ai aide avec le jardin.",
+      "fr": "Je l'ai aidé avec le jardin.",
       "en": "I helped him with the garden.",
       "drill": "I ___ him with the garden. (aider, past)",
-      "focus": "passe compose with object: je l'ai aide (I him-helped)"
+      "focus": "passé composé with object: je l'ai aidé (I him-helped)"
     },
     {
-      "fr": "Demain, je dois ecrire le code.",
+      "fr": "Demain, je dois écrire le code.",
       "en": "Tomorrow, I must write the code.",
-      "drill": "Tomorrow I must ___ the code. (ecrire)",
-      "focus": "after je dois, the verb stays infinitive: ecrire, not ecrit"
+      "drill": "Tomorrow I must ___ the code. (écrire)",
+      "focus": "after je dois, the verb stays infinitive: écrire, not écrit"
     },
     {
       "fr": "Je vais peindre un koi ce matin.",
@@ -31,16 +31,16 @@
       "focus": "je vais + infinitive for the near future: je vais peindre"
     },
     {
-      "fr": "Je veux apprendre le francais.",
+      "fr": "Je veux apprendre le français.",
       "en": "I want to learn French.",
       "drill": "I want to ___ French. (apprendre)",
       "focus": "after je veux, infinitive: apprendre"
     },
     {
-      "fr": "J'ai mange un morceau de gateau.",
+      "fr": "J'ai mangé un morceau de gâteau.",
       "en": "I ate a piece of cake.",
       "drill": "I ate a piece ___ cake. (of)",
-      "focus": "de alone after a quantity: un morceau DE gateau, no article"
+      "focus": "de alone after a quantity: un morceau DE gâteau, no article"
     },
     {
       "fr": "J'ai bu un verre de vin hier soir.",
@@ -49,10 +49,10 @@
       "focus": "un verre DE vin, same rule: quantity then plain de"
     },
     {
-      "fr": "D'abord, je vais boire un cafe.",
+      "fr": "D'abord, je vais boire un café.",
       "en": "First, I'm going to drink a coffee.",
       "drill": "First, I'm going to ___ a coffee. (boire)",
-      "focus": "D'abord = first of all (more natural than premiere)"
+      "focus": "D'abord = first of all (more natural than premièrement)"
     },
     {
       "fr": "J'ai beaucoup de travail aujourd'hui.",
