@@ -1,0 +1,64 @@
+{
+  "phrases": [
+    {
+      "fr": "J'ai fait les courses ce matin.",
+      "en": "I did the shopping this morning.",
+      "drill": "I ___ the shopping this morning. (faire, past)",
+      "focus": "passe compose: faire becomes fait, never the infinitive"
+    },
+    {
+      "fr": "J'ai visite mon voisin hier.",
+      "en": "I visited my neighbor yesterday.",
+      "drill": "I ___ my neighbor yesterday. (visiter, past)",
+      "focus": "passe compose: -er verbs drop -er and add -e (visite)"
+    },
+    {
+      "fr": "Je l'ai aide avec le jardin.",
+      "en": "I helped him with the garden.",
+      "drill": "I ___ him with the garden. (aider, past)",
+      "focus": "passe compose with object: je l'ai aide (I him-helped)"
+    },
+    {
+      "fr": "Demain, je dois ecrire le code.",
+      "en": "Tomorrow, I must write the code.",
+      "drill": "Tomorrow I must ___ the code. (ecrire)",
+      "focus": "after je dois, the verb stays infinitive: ecrire, not ecrit"
+    },
+    {
+      "fr": "Je vais peindre un koi ce matin.",
+      "en": "I'm going to paint a koi this morning.",
+      "drill": "I'm going to ___ a koi. (peindre)",
+      "focus": "je vais + infinitive for the near future: je vais peindre"
+    },
+    {
+      "fr": "Je veux apprendre le francais.",
+      "en": "I want to learn French.",
+      "drill": "I want to ___ French. (apprendre)",
+      "focus": "after je veux, infinitive: apprendre"
+    },
+    {
+      "fr": "J'ai mange un morceau de gateau.",
+      "en": "I ate a piece of cake.",
+      "drill": "I ate a piece ___ cake. (of)",
+      "focus": "de alone after a quantity: un morceau DE gateau, no article"
+    },
+    {
+      "fr": "J'ai bu un verre de vin hier soir.",
+      "en": "I drank a glass of wine last night.",
+      "drill": "I drank a glass ___ wine. (of)",
+      "focus": "un verre DE vin, same rule: quantity then plain de"
+    },
+    {
+      "fr": "D'abord, je vais boire un cafe.",
+      "en": "First, I'm going to drink a coffee.",
+      "drill": "First, I'm going to ___ a coffee. (boire)",
+      "focus": "D'abord = first of all (more natural than premiere)"
+    },
+    {
+      "fr": "J'ai beaucoup de travail aujourd'hui.",
+      "en": "I have a lot of work today.",
+      "drill": "I have a lot ___ work today. (of)",
+      "focus": "beaucoup DE travail: beaucoup is a quantity too"
+    }
+  ]
+}
