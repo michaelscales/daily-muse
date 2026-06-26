@@ -59,30 +59,144 @@
       "en": "I have a lot of work today.",
       "drill": "I have a lot ___ work today. (of)",
       "focus": "beaucoup DE travail: beaucoup is a quantity too"
+    },
+    {
+      "fr": "J'ai peint un tableau magnifique ce matin.",
+      "en": "I painted a beautiful painting this morning.",
+      "drill": "J'ai ___ (peindre) une fresque sur le mur. [j'ai peint]",
+      "focus": "Passé composé: peint (not peinte for masculine). Irregular past participle of peindre."
+    },
+    {
+      "fr": "Je dois écrire une description pour l'exposition.",
+      "en": "I have to write a description for the exhibition.",
+      "drill": "Tu peux ___ (venir) à l'atelier demain? [venir, not venu]",
+      "focus": "Modal + infinitive: the verb after devoir, pouvoir, vouloir stays infinitive form."
     }
   ],
   "vocab": [
-    { "mot": "l'aube", "genre": "f", "en": "dawn, daybreak", "exemple": "Je peins à l'aube. (I paint at dawn.)" },
-    { "mot": "le pinceau", "genre": "m", "en": "paintbrush", "exemple": "Mon pinceau préféré est usé. (My favorite brush is worn.)" },
-    { "mot": "le brouillon", "genre": "m", "en": "rough draft, first attempt", "exemple": "C'est juste un brouillon. (It's just a rough draft.)" },
-    { "mot": "la teinte", "genre": "f", "en": "hue, shade, tint", "exemple": "Une teinte plus chaude. (A warmer hue.)" },
-    { "mot": "le ruisseau", "genre": "m", "en": "stream, brook", "exemple": "Le héron attend près du ruisseau. (The heron waits by the stream.)" },
-    { "mot": "apprivoiser", "genre": "v", "en": "to tame, to win over slowly", "exemple": "Apprivoiser une nouvelle langue. (To tame a new language.)" },
-    { "mot": "le crépuscule", "genre": "m", "en": "dusk, twilight", "exemple": "Les dunes au crépuscule. (The dunes at dusk.)" },
-    { "mot": "épanoui", "genre": "adj", "en": "in full bloom, flourishing", "exemple": "Une pivoine épanouie. (A peony in full bloom.)" },
-    { "mot": "le savoir-faire", "genre": "m", "en": "know-how, craftsmanship", "exemple": "Le savoir-faire vient avec le temps. (Skill comes with time.)" },
-    { "mot": "flâner", "genre": "v", "en": "to wander, to stroll aimlessly", "exemple": "J'aime flâner le matin. (I like to wander in the morning.)" }
+    {
+      "mot": "l'aube",
+      "genre": "f",
+      "en": "dawn, daybreak",
+      "exemple": "Je peins à l'aube. (I paint at dawn.)"
+    },
+    {
+      "mot": "le pinceau",
+      "genre": "m",
+      "en": "paintbrush",
+      "exemple": "Mon pinceau préféré est usé. (My favorite brush is worn.)"
+    },
+    {
+      "mot": "le brouillon",
+      "genre": "m",
+      "en": "rough draft, first attempt",
+      "exemple": "C'est juste un brouillon. (It's just a rough draft.)"
+    },
+    {
+      "mot": "la teinte",
+      "genre": "f",
+      "en": "hue, shade, tint",
+      "exemple": "Une teinte plus chaude. (A warmer hue.)"
+    },
+    {
+      "mot": "le ruisseau",
+      "genre": "m",
+      "en": "stream, brook",
+      "exemple": "Le héron attend près du ruisseau. (The heron waits by the stream.)"
+    },
+    {
+      "mot": "apprivoiser",
+      "genre": "v",
+      "en": "to tame, to win over slowly",
+      "exemple": "Apprivoiser une nouvelle langue. (To tame a new language.)"
+    },
+    {
+      "mot": "le crépuscule",
+      "genre": "m",
+      "en": "dusk, twilight",
+      "exemple": "Les dunes au crépuscule. (The dunes at dusk.)"
+    },
+    {
+      "mot": "épanoui",
+      "genre": "adj",
+      "en": "in full bloom, flourishing",
+      "exemple": "Une pivoine épanouie. (A peony in full bloom.)"
+    },
+    {
+      "mot": "le savoir-faire",
+      "genre": "m",
+      "en": "know-how, craftsmanship",
+      "exemple": "Le savoir-faire vient avec le temps. (Skill comes with time.)"
+    },
+    {
+      "mot": "flâner",
+      "genre": "v",
+      "en": "to wander, to stroll aimlessly",
+      "exemple": "J'aime flâner le matin. (I like to wander in the morning.)"
+    },
+    {
+      "mot": "le croquis",
+      "genre": "m",
+      "en": "sketch; quick drawing",
+      "exemple": "J'ai fait plusieurs croquis avant de commencer la peinture finale. (I made several sketches before starting the final painting.)"
+    },
+    {
+      "mot": "la nuance",
+      "genre": "f",
+      "en": "shade; subtle difference",
+      "exemple": "Cette nuance de bleu est parfaite pour le ciel. (This shade of blue is perfect for the sky.)"
+    },
+    {
+      "mot": "esquisser",
+      "genre": "v",
+      "en": "to sketch; to outline",
+      "exemple": "Elle a esquissé les formes avec un crayon léger. (She sketched the shapes with a light pencil.)"
+    }
   ],
   "sagesse": [
-    { "fr": "Petit à petit, l'oiseau fait son nid.", "en": "Little by little, the bird builds its nest." },
-    { "fr": "Rome ne s'est pas faite en un jour.", "en": "Rome wasn't built in a day." },
-    { "fr": "Qui sème le vent récolte la tempête.", "en": "Who sows the wind reaps the storm." },
-    { "fr": "Il n'y a pas de fumée sans feu.", "en": "There's no smoke without fire." },
-    { "fr": "Vouloir, c'est pouvoir.", "en": "To want is to be able — where there's a will, there's a way." },
-    { "fr": "Chaque chose en son temps.", "en": "Everything in its own time." },
-    { "fr": "La nuit porte conseil.", "en": "The night brings counsel — sleep on it." },
-    { "fr": "Mieux vaut tard que jamais.", "en": "Better late than never." },
-    { "fr": "L'habit ne fait pas le moine.", "en": "The robe doesn't make the monk — don't judge by appearances." },
-    { "fr": "Goutte à goutte, l'eau creuse la pierre.", "en": "Drop by drop, water carves the stone." }
+    {
+      "fr": "Petit à petit, l'oiseau fait son nid.",
+      "en": "Little by little, the bird builds its nest."
+    },
+    {
+      "fr": "Rome ne s'est pas faite en un jour.",
+      "en": "Rome wasn't built in a day."
+    },
+    {
+      "fr": "Qui sème le vent récolte la tempête.",
+      "en": "Who sows the wind reaps the storm."
+    },
+    {
+      "fr": "Il n'y a pas de fumée sans feu.",
+      "en": "There's no smoke without fire."
+    },
+    {
+      "fr": "Vouloir, c'est pouvoir.",
+      "en": "To want is to be able — where there's a will, there's a way."
+    },
+    {
+      "fr": "Chaque chose en son temps.",
+      "en": "Everything in its own time."
+    },
+    {
+      "fr": "La nuit porte conseil.",
+      "en": "The night brings counsel — sleep on it."
+    },
+    {
+      "fr": "Mieux vaut tard que jamais.",
+      "en": "Better late than never."
+    },
+    {
+      "fr": "L'habit ne fait pas le moine.",
+      "en": "The robe doesn't make the monk — don't judge by appearances."
+    },
+    {
+      "fr": "Goutte à goutte, l'eau creuse la pierre.",
+      "en": "Drop by drop, water carves the stone."
+    },
+    {
+      "fr": "La créativité, c'est l'intelligence qui s'amuse.",
+      "en": "Creativity is intelligence having fun."
+    }
   ]
 }
