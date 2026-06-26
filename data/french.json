@@ -71,6 +71,30 @@
       "en": "I have to write a description for the exhibition.",
       "drill": "Tu peux ___ (venir) à l'atelier demain? [venir, not venu]",
       "focus": "Modal + infinitive: the verb after devoir, pouvoir, vouloir stays infinitive form."
+    },
+    {
+      "fr": "J'ai peint une toile magnifique hier.",
+      "en": "I painted a beautiful canvas yesterday.",
+      "drill": "J'___ (peindre) une toile magnifique hier. Fill in the passé composé form.",
+      "focus": "Irregular past participle: peindre → peint. Use with avoir."
+    },
+    {
+      "fr": "Je dois finir ce dessin avant demain.",
+      "en": "I have to finish this drawing before tomorrow.",
+      "drill": "Je dois ___ (finir) ce dessin avant demain. Modal + infinitive stays infinitive.",
+      "focus": "Modal verbs (devoir, pouvoir, vouloir, aller) always take infinitive, never conjugated."
+    },
+    {
+      "fr": "Vous pouvez ajouter un peu de sel à la pâte.",
+      "en": "You can add a little salt to the dough.",
+      "drill": "Vous pouvez ___ (ajouter) un peu de sel à la pâte. Keep the verb infinitive.",
+      "focus": "After pouvoir, the verb stays infinitive. 'Un peu de' is a quantity—no article before the noun."
+    },
+    {
+      "fr": "J'ai pris beaucoup de photos au musée.",
+      "en": "I took a lot of photos at the museum.",
+      "drill": "J'ai ___ (prendre) beaucoup de photos au musée. Irregular past participle needed.",
+      "focus": "prendre → pris (irregular). 'Beaucoup de' is a quantity—article drops; photos needs no article after it."
     }
   ],
   "vocab": [
@@ -151,6 +175,36 @@
       "genre": "v",
       "en": "to sketch; to outline",
       "exemple": "Elle a esquissé les formes avec un crayon léger. (She sketched the shapes with a light pencil.)"
+    },
+    {
+      "mot": "la palette",
+      "genre": "f",
+      "en": "palette",
+      "exemple": "L'artiste mélange les couleurs sur sa palette. (The artist mixes colors on their palette.)"
+    },
+    {
+      "mot": "le pinceau",
+      "genre": "m",
+      "en": "brush (paintbrush)",
+      "exemple": "Elle a besoin d'un pinceau fin pour les détails. (She needs a fine brush for the details.)"
+    },
+    {
+      "mot": "le coup de crayon",
+      "genre": "m",
+      "en": "stroke (of a pencil/pen)",
+      "exemple": "Chaque coup de crayon montre son style unique. (Every stroke shows their unique style.)"
+    },
+    {
+      "mot": "esquisser",
+      "genre": "v",
+      "en": "to sketch",
+      "exemple": "Je vais esquisser le visage avant de colorier. (I'm going to sketch the face before coloring.)"
+    },
+    {
+      "mot": "la nuance",
+      "genre": "f",
+      "en": "shade, nuance, tone",
+      "exemple": "Cette nuance de bleu est parfaite pour le ciel. (This shade of blue is perfect for the sky.)"
     }
   ],
   "sagesse": [
@@ -197,6 +251,26 @@
     {
       "fr": "La créativité, c'est l'intelligence qui s'amuse.",
       "en": "Creativity is intelligence having fun."
+    },
+    {
+      "fr": "L'art lave de l'âme la poussière de la vie quotidienne.",
+      "en": "Art washes from the soul the dust of everyday life. (Picasso)"
+    },
+    {
+      "fr": "La créativité, c'est l'intelligence qui s'amuse.",
+      "en": "Creativity is intelligence having fun. (Einstein)"
+    },
+    {
+      "fr": "Il n'y a pas de progrès sans risque.",
+      "en": "There is no progress without risk."
+    },
+    {
+      "fr": "Les mains créent, le cœur donne sens.",
+      "en": "Hands create, the heart gives meaning."
+    },
+    {
+      "fr": "C'est en forgeant qu'on devient forgeron.",
+      "en": "It is by forging that one becomes a blacksmith. (Practice makes perfect.)"
     }
   ]
 }
