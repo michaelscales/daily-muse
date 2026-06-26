@@ -1,12 +1,12 @@
 import { config } from './config.js';
 import type { DailyPrompt } from './prompt.js';
 import type { ReferenceImage } from './image.js';
-
-export async function sendTelegram(prompt: DailyPrompt, image: ReferenceImage): Promise<void> {
+import type { FrenchPhrase } from './french.js';
+export async function sendTelegram(prompt: DailyPrompt, image: ReferenceImage, french: FrenchPhrase): Promise<void> {
   const caption =
     `🎨 Today's prompt\n\n${prompt.text}\n\n` +
-    `Reference photo by ${image.photographerName} on Unsplash.`;
-
+    `Reference photo by ${image.photographerName} on Unsplash.\n\n` +
+    `🇫🇷 French du jour\n\n${french.drill}\n→ ${french.fr}\n\n${french.en}\n${french.focus}`;
   const res = await fetch(
     `https://api.telegram.org/bot${config.telegramBotToken}/sendPhoto`,
     {
