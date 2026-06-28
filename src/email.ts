@@ -46,11 +46,18 @@ export async function sendEmail(prompt: DailyPrompt, image: ReferenceImage, fren
         ${french.sagesse.en}
       </p>
     </div>`;
+  const recipients = (process.env.RECIPIENTS ?? config.toEmail)
+  .split(",")
+  .map((e) => e.trim())
+  .filter(Boolean);
+
+for (const to of recipients) {
   const { error } = await resend.emails.send({
     from: config.fromEmail,
-    to: config.toEmail,
+    to,
     subject: `Today's prompt: ${prompt.keyword}`,
     html,
   });
-  if (error) throw new Error(`Resend failed: ${JSON.stringify(error)}`);
+  if (error) throw new Error(`Resend failed for ${to}: ${JSON.stringify(error)}`);
+}
 }
